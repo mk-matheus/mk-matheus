@@ -23,13 +23,6 @@
 
 ---
 
-### 📊 Minhas estatísticas:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Kaua-Goncalves-de-Souza&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=17BCD1&icon_color=FB8500"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Kaua-Goncalves-de-Souza&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=17BCD1"/>
-</div>
-
-
 ---
 
 ### 💡 Projetos em destaque:
