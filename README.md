@@ -23,8 +23,6 @@
 
 ---
 
----
-
 ### 💡 Projetos em destaque:
 - 🧮 [Financiamente](https://github.com/seunome/financiamente): Plataforma de precificação inteligente.  
 - 🛍️ [Recifeirinha](https://github.com/seunome/recifeirinha): E-commerce inclusivo e sustentável.  
